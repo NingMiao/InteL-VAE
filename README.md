@@ -1,5 +1,6 @@
 # InteL-VAEs
 Codes for paper &lt;On Incorporating Inductive Biases into VAEs>. InteL-VAE is a simple and effective method for learning VAEs with controllable inductive biases by using an intermediary set of latent variables. It allows us to impose desired properties like sparsity or clustering on learned representations, and incorporate prior information into the learned model.
+![Model Graph](https://github.com/djkdsjwkjerkjermf/InteL-VAE/blob/master/model.png)
 
 ## Usage
 ### To try low dimensional datasets, 
